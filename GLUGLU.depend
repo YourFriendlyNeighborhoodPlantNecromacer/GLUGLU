@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1775046829 source:/home/fnpl/GLUGLU/GLUGLU/main.cpp
+	<iostream>
+	"GLUGLU.h"
+
+1773868339 /home/fnpl/GLUGLU/GLUGLU/indexed_node.h
+	"indexed_node_definition.h"
+
+1774421868 /home/fnpl/GLUGLU/GLUGLU/GLUGLU.h
+	<iostream>
+	<inttypes.h>
+	<fstream>
+	"GLUGLU_functions.h"
+	"GLUGLU_structures.h"
+
+1773861317 /home/fnpl/GLUGLU/GLUGLU/indexed_node_deffinition.h
+	<iostream>
+
+1773860705 /home/fnpl/GLUGLU/GLUGLU/couple_deffinition.h
+	<iostream>
+
+1773868235 /home/fnpl/GLUGLU/GLUGLU/couple.h
+	"couple_definition.h"
+
+1773860156 /home/fnpl/GLUGLU/GLUGLU/queue_deffinition.h
+	<iostream>
+
+1773868261 /home/fnpl/GLUGLU/GLUGLU/queue.h
+	"queue_definition.h"
+
+1773868312 /home/fnpl/GLUGLU/GLUGLU/l_queue.h
+	"l_queue_definition.h"
+
+1773862326 /home/fnpl/GLUGLU/GLUGLU/l_queue_deffinition.h
+
+1773868370 /home/fnpl/GLUGLU/GLUGLU/stack.h
+	"iostream"
+	"stack_definition.h"
+
+1773867650 /home/fnpl/GLUGLU/GLUGLU/stack_deffinition.h
+
+1773868289 /home/fnpl/GLUGLU/GLUGLU/l_stack.h
+	"l_stack_definition.h"
+
+1773867515 /home/fnpl/GLUGLU/GLUGLU/l_stack_deffinition.h
+	<iostream>
+
+1773930239 /home/fnpl/GLUGLU/GLUGLU/vector.h
+	"vector_definition.h"
+
+1773867811 /home/fnpl/GLUGLU/GLUGLU/vector_deffinition.h
+	<iostream>
+
+1773868269 /home/fnpl/GLUGLU/GLUGLU/n_tree.h
+	"n_tree_definition.h"
+
+1773861317 /home/fnpl/GLUGLU/GLUGLU/indexed_node_definition.h
+	<iostream>
+
+1773860705 /home/fnpl/GLUGLU/GLUGLU/couple_definition.h
+	<iostream>
+
+1773860156 /home/fnpl/GLUGLU/GLUGLU/queue_definition.h
+	<iostream>
+
+1773862326 /home/fnpl/GLUGLU/GLUGLU/l_queue_definition.h
+
+1773867650 /home/fnpl/GLUGLU/GLUGLU/stack_definition.h
+
+1773867515 /home/fnpl/GLUGLU/GLUGLU/l_stack_definition.h
+	<iostream>
+
+1773926475 /home/fnpl/GLUGLU/GLUGLU/vector_definition.h
+	<iostream>
+
+1773868441 /home/fnpl/GLUGLU/GLUGLU/n_tree_definition.h
+
+1773868575 /home/fnpl/GLUGLU/GLUGLU/b_tree.h
+	"b_tree_definition.h"
+
+1773868612 /home/fnpl/GLUGLU/GLUGLU/b_tree_definition.h
+
+1773868779 /home/fnpl/GLUGLU/GLUGLU/bs_tree.h
+	"bs_tree_definition.h"
+
+1773905798 /home/fnpl/GLUGLU/GLUGLU/bs_tree_definition.h
+
+1773906144 /home/fnpl/GLUGLU/GLUGLU/t_tree.h
+
+1773906228 /home/fnpl/GLUGLU/GLUGLU/heap.h
+	"heap_definition.h"
+
+1773906269 /home/fnpl/GLUGLU/GLUGLU/heap_definition.h
+
+1773906551 /home/fnpl/GLUGLU/GLUGLU/multidim.h
+	"multidim_definition.h"
+
+1773906521 /home/fnpl/GLUGLU/GLUGLU/multidim_definition.h
+
+1773906647 /home/fnpl/GLUGLU/GLUGLU/matrix.h
+	"matrix_definition.h"
+
+1773906723 /home/fnpl/GLUGLU/GLUGLU/matrix_definition.h
+
+1773907136 /home/fnpl/GLUGLU/GLUGLU/connection_martix_graph.h
+	"connection_martix_graph_definition.h"
+
+1773907136 /home/fnpl/GLUGLU/GLUGLU/connection_martix_graph_definition.h
+
+1773907334 /home/fnpl/GLUGLU/GLUGLU/matrix_graph.h
+	"matrix_graph_definition.h"
+
+1773930204 /home/fnpl/GLUGLU/GLUGLU/matrix_graph_definition.h
+
+1773907670 /home/fnpl/GLUGLU/GLUGLU/neighbour_array_graph.h
+	"neighbour_array_graph_definition.h"
+
+1773907723 /home/fnpl/GLUGLU/GLUGLU/neighbour_array_graph_definition.h
+
+1775033248 /home/fnpl/GLUGLU/GLUGLU/GLUGLU_functions.h
+	"functions/new_line.h"
+	"functions/expand_array.h"
+	"functions/expand_array_to.h"
+	"functions/expand_matrix.h"
+	"functions/min.h"
+	"functions/max.h"
+	"functions/tabulator.h"
+	"functions/binary_search.h"
+
+1774356912 /home/fnpl/GLUGLU/GLUGLU/new_line.h
+
+1774357033 /home/fnpl/GLUGLU/GLUGLU/expand_array.h
+
+1774357193 /home/fnpl/GLUGLU/GLUGLU/expand_array_to.h
+
+1774928923 /home/fnpl/GLUGLU/GLUGLU/functions/new_line.h
+
+1774357033 /home/fnpl/GLUGLU/GLUGLU/functions/expand_array.h
+
+1774357193 /home/fnpl/GLUGLU/GLUGLU/functions/expand_array_to.h
+
+1774357228 /home/fnpl/GLUGLU/GLUGLU/functions/expand_matrix.h
+
+1774357283 /home/fnpl/GLUGLU/GLUGLU/functions/expand_matrix_to.h
+
+1775032815 /home/fnpl/GLUGLU/GLUGLU/GLUGLU_structures.h
+	"datastructures/structures/indexed_node/indexed_node.h"
+	"datastructures/structures/indexed_node/indexed_node.h"
+	"datastructures/linear/queues/queue/queue.h"
+	"datastructures/linear/stacks/stack/stack.h"
+	"datastructures/linear/stacks/l_stack/l_stack.h"
+	"datastructures/linear/dynamic_array/dynamic_array.h"
+	"datastructures/trees/n_tree.h"
+	"datastructures/trees/b_tree.h"
+	"datastructures/trees/bs_tree.h"
+	"datastructures/trees/t_tree.h"
+	"datastructures/trees/heap.h"
+	"datastructures/matrixes/matrix/matrix.h"
+	"datastructures/multidimentional/multidim.h"
+	"datastructures/matrixes/connection_matrix/connection_martix_graph.h"
+	"datastructures/matrixes/matrix_graph/matrix_graph.h"
+	"datastructures/matrixes/adjacency_list/adjacency_list.h"
+
+1773868339 /home/fnpl/GLUGLU/GLUGLU/datastructures/structures/indexed_node/indexed_node.h
+	"indexed_node_definition.h"
+
+1773861317 /home/fnpl/GLUGLU/GLUGLU/datastructures/structures/indexed_node/indexed_node_definition.h
+	<iostream>
+
+1774938661 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/queues/queue/queue.h
+	"queue_definition.h"
+
+1774938601 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/queues/queue/queue_definition.h
+
+1774790601 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/queues/l_queue/l_queue.h
+	"l_queue_definition.h"
+
+1774938493 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/queues/l_queue/l_queue_definition.h
+
+1773868370 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/stacks/stack/stack.h
+	"iostream"
+	"stack_definition.h"
+
+1773867650 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/stacks/stack/stack_definition.h
+
+1773868289 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/stacks/l_stack/l_stack.h
+	"l_stack_definition.h"
+
+1773867515 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/stacks/l_stack/l_stack_definition.h
+	<iostream>
+
+1775026811 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/vector/vector.h
+	"vector_definition.h"
+
+1775026907 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/vector/vector_definition.h
+	<iostream>
+
+1775032269 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/n_tree.h
+	"n_tree_definition.h"
+
+1773868441 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/n_tree_definition.h
+
+1773868575 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/b_tree.h
+	"b_tree_definition.h"
+
+1773868612 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/b_tree_definition.h
+
+1773868779 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/bs_tree.h
+	"bs_tree_definition.h"
+
+1773905798 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/bs_tree_definition.h
+
+1773906144 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/t_tree.h
+
+1773906228 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/heap.h
+	"heap_definition.h"
+
+1773906269 /home/fnpl/GLUGLU/GLUGLU/datastructures/trees/heap_definition.h
+
+1774982560 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/matrix/matrix.h
+	"matrix_definition.h"
+
+1775026002 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/matrix/matrix_definition.h
+
+1774938465 /home/fnpl/GLUGLU/GLUGLU/datastructures/multidimentional/multidim.h
+	"multidim_definition.h"
+
+1773906521 /home/fnpl/GLUGLU/GLUGLU/datastructures/multidimentional/multidim_definition.h
+
+1773907136 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/connection_matrix/connection_martix_graph.h
+	"connection_martix_graph_definition.h"
+
+1774790635 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/connection_matrix/connection_martix_graph_definition.h
+
+1775032280 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/matrix_graph/matrix_graph.h
+	"matrix_graph_definition.h"
+
+1775032298 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/matrix_graph/matrix_graph_definition.h
+
+1774938506 /home/fnpl/GLUGLU/GLUGLU/functions/min.h
+
+1774938506 /home/fnpl/GLUGLU/GLUGLU/functions/max.h
+
+1774779800 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/neighbour_array_graph/neighbour_array_graph.h
+	"neighbour_array_graph_definition.h"
+
+1774781683 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/neighbour_array_graph/neighbour_array_graph_definition.h
+
+1774929928 /home/fnpl/GLUGLU/GLUGLU/functions/tabulator.h
+
+1775032309 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/adjacency_list/adjacency_list.h
+	"adjacency_list_definition.h"
+
+1775032638 /home/fnpl/GLUGLU/GLUGLU/datastructures/matrixes/adjacency_list/adjacency_list_definition.h
+
+1775032036 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/dynamic_array/dynamic_array.h
+	"dynamic_array_definition.h"
+
+1775032248 /home/fnpl/GLUGLU/GLUGLU/datastructures/linear/dynamic_array/dynamic_array_definition.h
+	<iostream>
+
+1775046450 /home/fnpl/GLUGLU/GLUGLU/functions/binary_search.h
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GLUGLU" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GLUGLU" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GLUGLU" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="GLUGLU.h" />
+		<Unit filename="GLUGLU_functions.h" />
+		<Unit filename="GLUGLU_structures.h" />
+		<Unit filename="datastructures/datastructure_blueprint.h" />
+		<Unit filename="datastructures/datastructure_template" />
+		<Unit filename="datastructures/linear/autosorted_dynamic_array/autosorted_dynamic_array.h" />
+		<Unit filename="datastructures/linear/autosorted_dynamic_array/autosorted_dynamic_array_definition.h" />
+		<Unit filename="datastructures/linear/dynamic_array/dynamic_array.h" />
+		<Unit filename="datastructures/linear/dynamic_array/dynamic_array_definition.h" />
+		<Unit filename="datastructures/linear/queues/l_queue/l_queue.h" />
+		<Unit filename="datastructures/linear/queues/l_queue/l_queue_definition.h" />
+		<Unit filename="datastructures/linear/queues/queue/queue.h" />
+		<Unit filename="datastructures/linear/queues/queue/queue_definition.h" />
+		<Unit filename="datastructures/linear/stacks/l_stack/l_stack.h" />
+		<Unit filename="datastructures/linear/stacks/l_stack/l_stack_definition.h" />
+		<Unit filename="datastructures/linear/stacks/stack/stack.h" />
+		<Unit filename="datastructures/linear/stacks/stack/stack_definition.h" />
+		<Unit filename="datastructures/matrixes/adjacency_list" />
+		<Unit filename="datastructures/matrixes/adjacency_list/adjacency_list.h" />
+		<Unit filename="datastructures/matrixes/adjacency_list/adjacency_list_definition.h" />
+		<Unit filename="datastructures/matrixes/connection_matrix/connection_martix_graph.h" />
+		<Unit filename="datastructures/matrixes/connection_matrix/connection_martix_graph_definition.h" />
+		<Unit filename="datastructures/matrixes/matrix/matrix.h" />
+		<Unit filename="datastructures/matrixes/matrix/matrix_definition.h" />
+		<Unit filename="datastructures/matrixes/matrix_graph/matrix_graph.h" />
+		<Unit filename="datastructures/matrixes/matrix_graph/matrix_graph_definition.h" />
+		<Unit filename="datastructures/multidimentional/multidim.h" />
+		<Unit filename="datastructures/multidimentional/multidim_definition.h" />
+		<Unit filename="datastructures/structures/couple/couple.h" />
+		<Unit filename="datastructures/structures/couple/couple_definition.h" />
+		<Unit filename="datastructures/structures/indexed_node/indexed_node.h" />
+		<Unit filename="datastructures/structures/indexed_node/indexed_node_definition.h" />
+		<Unit filename="datastructures/trees/b_tree.h" />
+		<Unit filename="datastructures/trees/b_tree_definition.h" />
+		<Unit filename="datastructures/trees/bs_tree.h" />
+		<Unit filename="datastructures/trees/bs_tree_definition.h" />
+		<Unit filename="datastructures/trees/heap.h" />
+		<Unit filename="datastructures/trees/heap_definition.h" />
+		<Unit filename="datastructures/trees/n_tree.h" />
+		<Unit filename="datastructures/trees/n_tree_definition.h" />
+		<Unit filename="datastructures/trees/t_tree.h" />
+		<Unit filename="datastructures/trees/t_tree_definition.h" />
+		<Unit filename="functions/binary_search.h" />
+		<Unit filename="functions/expand_array.h" />
+		<Unit filename="functions/expand_array_to.h" />
+		<Unit filename="functions/expand_matrix.h" />
+		<Unit filename="functions/expand_matrix_to.h" />
+		<Unit filename="functions/max.h" />
+		<Unit filename="functions/min.h" />
+		<Unit filename="functions/new_line.h" />
+		<Unit filename="functions/tabulator.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
